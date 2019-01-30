@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # -*- coding: utf-8 -*
-# G.Monarque 2019 - Contact using github
+# G.M. 2019 - Contact using github
 
 from scapy.all import *
 from netfilterqueue import NetfilterQueue
